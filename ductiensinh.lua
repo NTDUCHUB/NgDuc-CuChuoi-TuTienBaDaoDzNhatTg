@@ -2,7 +2,7 @@
 local vu1 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local v2 = vu1:CreateWindow({
     ["Title"] = "Banana Cat Hub-Blox Fruit [ Free ]",
-    ["SubTitle"] = "By KimP Roblox",
+    ["SubTitle"] = "By DucTienSinh",
     ["TabWidth"] = 160,
     ["Theme"] = "Darker",
     ["Acrylic"] = false,
